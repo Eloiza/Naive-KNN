@@ -1,6 +1,6 @@
 # Naive-KNN :house:
 ### Description
-This is a naive implementation of the K-Nearest Neighbor Algorithm. It was done in the most simple and naive way as possible. In `my_knn` file you can find my implementation of the main functions used in the KNN Algorithm. The `main.py` file is the main file responsible for read the dataset, use the algorithm and evaluate its performance. In the directory `Data` there is a simple dataset, splitted in `train.dat` and `test.dat`, to use and try the algorithm. This dataset is a generic dataset, so it does not represent something in the real world. 
+This is a naive implementation of the K-Nearest Neighbor Algorithm. It was done in the most simple and naive way as possible. In `my_knn.py` file you can find my implementation of the main functions used in the KNN Algorithm. The `main.py` file is the main file responsible for read the dataset, use the algorithm and evaluate its performance. In the directory `Data` there is a simple dataset, splitted in `train.dat` and `test.dat`, to use and try the algorithm. This dataset is a generic dataset, so it does not represent something in the real world. 
 
 ### Dependencies
 
