@@ -1,4 +1,3 @@
-
 #calcula distancia euclidiana entre dois vetores
 def euclidean_distance(v1, v2):
 	total = 0
